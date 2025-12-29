@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps.
 
 ### Installation
 ```bash
-git clone <your-repository-link>
+git clone https://github.com/cxnexion/weather-app
 cd my-react-router-app
 npm install
 npm run dev
